@@ -12,6 +12,7 @@
       },
       "file_suffixes": {
         "as": "actionscript",
+        "gd": "godot",
         "swf": "flash"
       },
       "file_icons": {
@@ -36,7 +37,7 @@
         "flash": { "path": "./icons/flash.svg" },
         "font": { "path": "./icons/font.svg" },
         "fsharp": { "path": "./icons/fsharp.svg" },
-        "gd": { "path": "./icons/gd.svg" },
+        "godot": { "path": "./icons/godot.svg" },
         "gleam": { "path": "./icons/gleam.svg" },
         "go": { "path": "./icons/go.svg" },
         "graphql": { "path": "./icons/graphql.svg" },
