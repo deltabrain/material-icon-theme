@@ -1,7 +1,7 @@
 {
   "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
   "name": "Material Icon Theme",
-  "author": "Zed Industries",
+  "author": "deltabrain",
   "themes": [
     {
       "name": "Material Icon Theme",
@@ -36,6 +36,7 @@
         "flash": { "path": "./icons/flash.svg" },
         "font": { "path": "./icons/font.svg" },
         "fsharp": { "path": "./icons/fsharp.svg" },
+        "gd": { "path": "./icons/gd.svg" },
         "gleam": { "path": "./icons/gleam.svg" },
         "go": { "path": "./icons/go.svg" },
         "graphql": { "path": "./icons/graphql.svg" },
@@ -43,6 +44,7 @@
         "hcl": { "path": "./icons/hcl.svg" },
         "heroku": { "path": "./icons/heroku.svg" },
         "image": { "path": "./icons/image.svg" },
+        "import": { "path": "./icons/import.svg" },
         "java": { "path": "./icons/java.svg" },
         "javascript": { "path": "./icons/javascript.svg" },
         "json": { "path": "./icons/json.svg" },
@@ -73,6 +75,7 @@
         "terraform": { "path": "./icons/terraform.svg" },
         "toml": { "path": "./icons/toml.svg" },
         "typescript": { "path": "./icons/typescript.svg" },
+        "uid": { "path": "./icons/uid.svg" },
         "vcs": { "path": "./icons/git.svg" },
         "video": { "path": "./icons/video.svg" },
         "vue": { "path": "./icons/vue.svg" },
